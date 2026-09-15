@@ -35,3 +35,4 @@ build/
 
 ### Cursor ###
 .cursor/
+.cursor/rules/
